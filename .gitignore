@@ -1,0 +1,11 @@
+.vscode/settings.json
+dwh.cfg
+__pycache__/sql_queries.cpython-37.pyc
+.ipynb_checkpoints/create_tables-checkpoint.py
+.ipynb_checkpoints/dwh-checkpoint.cfg
+.ipynb_checkpoints/etl-checkpoint.py
+.ipynb_checkpoints/README-checkpoint.md
+.ipynb_checkpoints/sql_queries-checkpoint.py
+L3 Exercise 3 - Parallel ETL - Solution.ipynb
+L3 Exercise 4 - Table Design - Solution.ipynb
+U2-P1-archive.tar.gz
